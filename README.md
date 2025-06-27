@@ -1,6 +1,6 @@
 # 说明
 
-从redchenjs那里fork过来，原代码已无法直接连接，使用GPT修改了LoginManager.py文件，现能正常连接
+从redchenjs那里fork过来，原代码已无法直接连接，修改了LoginManager.py文件，现能正常连接
 
 # 概述
 
